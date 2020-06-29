@@ -1,3 +1,5 @@
+![imagem](imagem.jpg)
+
 # Portfólio dos meus projetos de Data Science
 
 Projetos desenvolvidos no Curso Data Science na Prática - Sigmoidal
